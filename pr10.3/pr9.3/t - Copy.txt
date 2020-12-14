@@ -1,0 +1,6 @@
+5
+apple 10.1 1 0
+mango 15.3 3 2
+bread 34.2 6 1
+carrot 4.5 6 0
+nut 14.8 5 1
