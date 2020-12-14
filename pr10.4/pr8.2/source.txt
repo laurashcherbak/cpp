@@ -1,0 +1,3 @@
+Create a text file
+Find the shortest word
+Write down the shortest word and number of words
