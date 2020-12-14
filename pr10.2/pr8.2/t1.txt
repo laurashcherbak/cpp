@@ -1,0 +1,10 @@
+  	 1	Remove  leading    and	trailing    spaces   		
+  	 2 Remove  leading    and	trailing    spaces   		
+  	 3	Remove  leading    and	trailing    spaces   		
+  	 4		Remove  leading    and	trailing    spaces   		
+  	 5	Remove  leading    and	trailing    spaces   		
+6  	 Remove  leading    and	trailing    spaces   		
+  	7 Remove  leading    and	trailing    spaces   		
+  8	 Remove  leading    and	trailing    spaces   		
+  	 9Remove  leading    and	trailing    spaces   		
+  	 1Remove  leading    and	trailing    spaces   0		
